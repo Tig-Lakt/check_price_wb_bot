@@ -1,0 +1,1 @@
+from rabbitmq.producer import send_message
